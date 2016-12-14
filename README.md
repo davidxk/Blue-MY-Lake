@@ -3,6 +3,7 @@ Note: This is the old version of game the mobile game Blue Mingyuan Lake. The ne
 
 ## Introduction
 ![](https://github.com/davidxk/Blue-MY-Lake/blob/myh/gate.png)
+
 Blue Mingyuan Lake is a campus-themed RPG mobile game developed based on the background of Sichuan University of China. It currently supports Android platform only and can be downloaded [here](http://www.wandoujia.com/apps/com.bluemylake.game). 
 
 Mingyuan Lake is a lake at the center of Jiangan Campus and it is one of the symbols of Sichuan University. The game named after this lake tells the love story of young girl in her first year of undergraduate study at Sichuan University. 
@@ -23,4 +24,5 @@ Installation package for Android device can be downloaded [here](http://www.wand
 
 ## How to Play
 ![play](https://github.com/davidxk/Blue-MY-Lake/blob/myh/play.jpeg)
+
 Move the character with direction buttons on the left of the screen. Start conversation with NPCs with the button on the right. Game menu is on the top right of the screen where you can enter map mode, save the game or quit. Swipe the screen to enter eagle-view mode. 
